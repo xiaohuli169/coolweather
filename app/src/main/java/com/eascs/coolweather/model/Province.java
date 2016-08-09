@@ -25,10 +25,10 @@ public class Province {
     }
 
     public void setProvinceName(String provinceName) {
-        provinceName = provinceName;
+        this.provinceName = provinceName;
     }
 
     public void setProvinceCode(String provinceCode) {
-        provinceCode = provinceCode;
+        this.provinceCode = provinceCode;
     }
 }
